@@ -3,7 +3,11 @@ Python web crawler which grabs all links from any webpage, sorts the external on
 
 ## Usage
 ```
-python grabLinks.py <url-link>
+python3 grabLinks.py <url-link>
+```
+Example run using www.google.com
+```
+python3 grabLinks.py http://www.google.com?
 ```
 
 ## Terminal Output
